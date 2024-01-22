@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:2em;
+    padding:10px;
+}
+.page {
+            page-break-before: always;
+}
+.parentheses {
+    margin-left: 700px; /* Adjust the value as needed */
+}
+.img{
+    width:100px;
+    height:100px
+}
